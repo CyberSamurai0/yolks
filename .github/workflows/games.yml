@@ -35,4 +35,4 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            ghcr.io/cybersamurai0/yolks/games:${{ matrix.game }}
+            ghcr.io/cybersamurai0/games:${{ matrix.game }}
